@@ -16,6 +16,6 @@ spec:
     spec: 
       containers: 
       - name: my-container 
-        image: ruchithabtgowda/proj2:latest
+        image: ruchithabtgowda/vinai:latest
         ports: 
         - containerPort: 80
